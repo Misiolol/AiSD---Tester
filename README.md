@@ -42,6 +42,16 @@
 ![image](https://github.com/user-attachments/assets/8bbd533e-65c1-4f08-9c18-18feeb4d506f)
 
 6. Wyniki pojawią się w pliku user-outputs <br>
+ ![image](https://github.com/user-attachments/assets/b0519478-847f-4f8c-80ed-da1ecaae9d1a)<br>
+ ![image](https://github.com/user-attachments/assets/a6114d21-0e7a-4551-b2d4-e55dd0d365c4)<br>
+ ![image](https://github.com/user-attachments/assets/45980017-91e6-497e-874b-fa63db0b433e)<br>
+ ![image](https://github.com/user-attachments/assets/02be0985-c137-42b4-addc-123bab9779ae)<br>
+
+ 
+
+ 
+
+
 
 
 
