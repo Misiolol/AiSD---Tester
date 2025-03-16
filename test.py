@@ -112,7 +112,7 @@ def main():
 
     input_files = []
     if random_enabled:
-        input_files.extend([f"./DataSets/RandomNumbers/numbers_{n}.txt" for n in [10, 100, 400, 800, 1000, , 4000, 8000, 10000, 40000, 80000, 100000]])
+        input_files.extend([f"./DataSets/RandomNumbers/numbers_{n}.txt" for n in [10, 100, 400, 800, 1000, 4000, 8000, 10000, 40000, 80000, 100000]])
     if Vtype_enabled:
         input_files.extend([f"./DataSets/V_typesets/v_shaped_{n}.txt" for n in [10, 100, 400, 800, 1000, 4000, 8000, 10000, 40000, 80000, 100000]])
     if Atype_enabled:
