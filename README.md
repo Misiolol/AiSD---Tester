@@ -30,13 +30,13 @@
 4. Skomplikować kod a program wykonywalny (a.exe) umieścić w pliku razem z test.py<br>
 ![image](https://github.com/user-attachments/assets/1a1d2df1-1988-40ea-a13f-24da5491cc45)<br>
 5. Odpalić tester komendą
-  ```bash
-  python test.py
-```
-lub
-```bash
-python3 test.py
-```
+     ```bash
+     python test.py
+   ```
+   lub
+   ```bash
+   python3 test.py
+   ```
 5. Odczekać aż tester skończy swoją pracę, wszystkie informacje o pracującym programie pojawiać się będą w konsoli<br>
 ![image](https://github.com/user-attachments/assets/8bbd533e-65c1-4f08-9c18-18feeb4d506f)
 
