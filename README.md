@@ -28,7 +28,7 @@
         exampleVector.push_back(a);
     }
    ```
-4. Skomplikować kod a program wykonywalny (a.exe) umieścić w pliku razem z test.py<br>
+4. Skompilkować kod a program wykonywalny (a.exe) umieścić w pliku razem z test.py<br>
 ![image](https://github.com/user-attachments/assets/1a1d2df1-1988-40ea-a13f-24da5491cc45)<br>
 5. Odpalić tester komendą
      ```bash
