@@ -38,7 +38,10 @@ lub
 python3 test.py
 ```
 5. Odczekać aż tester skończy swoją pracę, wszystkie informacje o pracującym programie pojawiać się będą w konsoli<br>
-6. Wyniki pojawią się w pliku user-outputs 
+![image](https://github.com/user-attachments/assets/8bbd533e-65c1-4f08-9c18-18feeb4d506f)
+
+6. Wyniki pojawią się w pliku user-outputs <br>
+
 
 
 
